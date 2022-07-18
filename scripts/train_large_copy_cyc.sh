@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python train.py \
+python3 train.py \
     --debug 0 \
     --auto_disconnect 1 \
     --save_prefix large_copy_cyc \
